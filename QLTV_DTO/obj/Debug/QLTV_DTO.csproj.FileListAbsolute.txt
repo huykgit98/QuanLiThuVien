@@ -1,0 +1,11 @@
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\bin\Debug\QLTV_DTO.dll.config
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\bin\Debug\QLTV_DTO.dll
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\bin\Debug\QLTV_DTO.pdb
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\bin\Debug\EntityFramework.dll
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\bin\Debug\EntityFramework.xml
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\obj\Debug\QLTV_DTO.csprojAssemblyReference.cache
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\obj\Debug\QLTV_DTO.csproj.CopyComplete
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\obj\Debug\QLTV_DTO.dll
+C:\Users\huykg\Downloads\Project\QuanLiThuVien\QuanLiThuVien\QLTV_DTO\obj\Debug\QLTV_DTO.pdb
